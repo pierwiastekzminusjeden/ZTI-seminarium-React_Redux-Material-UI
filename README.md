@@ -1,4 +1,4 @@
-# Zaawansowane techniki programowania - seminarium
+# Zaawansowane techniki internetowe - seminarium
 ## Autor: Krystian Molenda
 
 
