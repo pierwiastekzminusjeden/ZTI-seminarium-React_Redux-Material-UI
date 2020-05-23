@@ -1,0 +1,7 @@
+export const ADD_SUCCESS = 'ADD_SUCCESS';
+export const GET_SUCCESS = 'GET_SUCCESS';
+export const DELETE_SUCCESS = 'DELETE_SUCCESS';
+export const UPDATE_SUCCESS = 'UPDATE_SUCCESS';
+
+export const GET_MESSAGE = 'GET_MESSAGE';
+export const SET_OPEN_EDIT_DIALOG = 'SET_OPEN_EDIT_DIALOG';
