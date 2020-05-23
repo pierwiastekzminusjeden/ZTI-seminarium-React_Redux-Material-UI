@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zti-sem-react/static/css/main.69eda509.chunk.css",
+    "main.js": "/zti-sem-react/static/js/main.a48546bc.chunk.js",
+    "main.js.map": "/zti-sem-react/static/js/main.a48546bc.chunk.js.map",
+    "runtime-main.js": "/zti-sem-react/static/js/runtime-main.612de6fb.js",
+    "runtime-main.js.map": "/zti-sem-react/static/js/runtime-main.612de6fb.js.map",
+    "static/js/2.95b1df64.chunk.js": "/zti-sem-react/static/js/2.95b1df64.chunk.js",
+    "static/js/2.95b1df64.chunk.js.map": "/zti-sem-react/static/js/2.95b1df64.chunk.js.map",
+    "index.html": "/zti-sem-react/index.html",
+    "precache-manifest.b33ccb3cf6ef26cf4ff8194aeca8fea2.js": "/zti-sem-react/precache-manifest.b33ccb3cf6ef26cf4ff8194aeca8fea2.js",
+    "service-worker.js": "/zti-sem-react/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/zti-sem-react/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.95b1df64.chunk.js.LICENSE.txt": "/zti-sem-react/static/js/2.95b1df64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612de6fb.js",
+    "static/js/2.95b1df64.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.a48546bc.chunk.js"
+  ]
+}
