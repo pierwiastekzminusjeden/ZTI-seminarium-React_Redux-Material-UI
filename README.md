@@ -1,6 +1,7 @@
 # Zaawansowane techniki internetowe - seminarium
 ## Autor: Krystian Molenda
 
+# Komentarze do kodu oraz prosta instrukcja działania aplikacji dostępna będzie niebawem
 
 ### Przykładowa aplikacja klienta TODO list 
 
